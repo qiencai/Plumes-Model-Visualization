@@ -1,0 +1,1 @@
+V1 is the simulation of spreading and concentration evolution, where 0 wind speed is not properly handled, so you would see sudden blow up in the concentration when the black arrows appears( 0 wind speed ). V2 handles the 0 wind speed as no new concentration transport, and no decay happening, therefore you would see "frozen" screen when black arrows appears. 
